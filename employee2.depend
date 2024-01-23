@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1699906133 source:c:\users\user\documents\embarcadero\Глава 1\employee2\main.cpp
+	<iostream>
+	<Windows.h>
+	"emp3.cpp"
+	<conio.h>
+
+1699905908 c:\users\user\documents\embarcadero\Глава 1\employee2\emp3.cpp
+	<iostream>
+	<string>
+	<vector>
+	"emp3.h"
+	<iomanip>
+
+1698853662 c:\users\user\documents\embarcadero\Глава 1\employee2\emp3.h
+	<string>
+	<iostream>
+	<vector>
+
